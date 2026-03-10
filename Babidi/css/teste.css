@@ -1,0 +1,47 @@
+body    {  
+
+    margin: 0px;
+    padding: 0px;
+    background-color: #222;
+
+}
+
+#Título {
+
+    font-family: 'Nunito';
+    color: inherit;
+
+
+}
+
+.container  {
+
+        background-color: #225;
+        border-radius: 5px; 
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: stretch;
+        padding: 10px;
+        margin: 100px;
+        height: auto;
+        color: aliceblue;
+        width: fit-content;
+}
+
+.item {
+
+    background-color: #229;
+    padding: 10px;
+    margin: 10px;
+    height: fit-content;
+    width: auto;
+    border-radius: 5px;
+    font-family: 'Roboto Condensed';
+
+
+    
+
+}
+
